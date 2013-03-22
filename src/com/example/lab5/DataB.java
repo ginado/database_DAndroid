@@ -52,7 +52,8 @@ public class DataB extends SQLiteOpenHelper {
 	    }
 	    
 	    /**
-	     * All CRUD(Create, Read, Update, Delete) Operations
+	     * All CRUD(Create, Read, Update, Delete)
+	     *           Operations
 	     */
 	 
 	    // Adaugare angajat
